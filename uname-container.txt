@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Linux mupadhya-31410 3.10.0-1160.95.1.el7.x86_64 #1 SMP Mon Jul 24 13:59:37 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+=======
+Linux mluc-17763 3.10.0-1160.95.1.el7.x86_64 #1 SMP Mon Jul 24 13:59:37 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+>>>>>>> a4a50e7de54b0f44438dee7c8c90708bdfaafa27
